@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-chno="1", Rai 1 HD
 #EXTSIZE: Big
-https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 #EXTINF:-1 tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-chno="2", Rai 2 HD
 #EXTSIZE: Big
