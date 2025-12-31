@@ -1,31 +1,31 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://github.com/xN1ckuz/OpenIPTVItaly/blob/main/Logos/1-rai1hd.png", Rai 1 HD
-#EXTSIZE: Big
+#EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/1-rai1hd.png", Rai 1 HD
+#EXTSIZE: Medium
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-logo="https://github.com/xN1ckuz/OpenIPTVItaly/blob/main/Logos/2-rai2hd.png", Rai 2 HD
-#EXTSIZE: Big
+#EXTINF:-1 tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/2-rai2hd.png", Rai 2 HD
+#EXTSIZE: Medium
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3 HD" tvg-logo="https://github.com/xN1ckuz/OpenIPTVItaly/blob/main/Logos/3-rai3hd.png", Rai 3 HD
-#EXTSIZE: Big
+#EXTINF:-1 tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/3-rai3hd.png", Rai 3 HD
+#EXTSIZE: Medium
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
-#EXTSIZE: Big
+#EXTINF:-1 tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
+#EXTSIZE: Medium
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1  tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/5-canale5hd.png", Canale 5 HD
-#EXTSIZE: Big
+#EXTINF:-1 tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/5-canale5hd.png", Canale 5 HD
+#EXTSIZE: Medium
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Italia.1.it" tvg-name="Italia 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/6-italia1hd.png", Italia 1 HD
-#EXTSIZE: Big
+#EXTSIZE: Medium
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-chno="7" tvg-id="LA7.HD.it" tvg-name="LA7 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/7-la7hd.png", LA7 HD
-#EXTSIZE: Big
+#EXTSIZE: Medium
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/8-tv8hd.png", TV8 HD
