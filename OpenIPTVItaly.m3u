@@ -12,7 +12,7 @@ https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u
 #EXTSIZE: Big
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-chno="4", Rete 4 HD
+#EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
 #EXTSIZE: Big
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
