@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="Rai 1 HD" tvg-chno="1", Rai 1 HD
+#EXTINF:-1, Rai 1 HD
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-name="Rai 2 HD" tvg-chno="2", Rai 2 HD
+#EXTINF:-1, Rai 2 HD
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-name="Rai 3 HD" tvg-chno="3", Rai 3 HD
+#EXTINF:-1, Rai 3 HD
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-name="Rete 4 HD" tvg-chno="4", Rete 4 HD
+#EXTINF:-1, Rete 4 HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-name="Canale 5 HD" tvg-chno="5", Canale 5 HD
+#EXTINF:-1, Canale 5 HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-name="Italia 1 HD" tvg-chno="6", Italia 1 HD
+#EXTINF:-1, Italia 1 HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 #EXTINF:-1,[7] LA7
