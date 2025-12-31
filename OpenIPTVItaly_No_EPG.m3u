@@ -1,31 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1, Rai 1 HD
+#EXTINF:-1,Rai 1 HD
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
-#EXTINF:-1, Rai 2 HD
+#EXTINF:-1,Rai 2 HD
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 
-#EXTINF:-1, Rai 3 HD
+#EXTINF:-1,Rai 3 HD
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
-#EXTINF:-1, Rete 4 HD
+#EXTINF:-1,Rete 4 HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1, Canale 5 HD
+#EXTINF:-1,Canale 5 HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1, Italia 1 HD
+#EXTINF:-1,Italia 1 HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
-#EXTINF:-1,[7] LA7
+#EXTINF:-1,LA7 HD
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
-#EXTINF:-1,[8] TV8
+#EXTINF:-1,TV8 HD
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1,[9] NOVE
+#EXTINF:-1,NOVE HD
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1,Telenorba
+https://stream12.xdevel.com/video2s976570-2526/stream/playlist_dvr.m3u8
 
 #EXTINF:-1,[20] 20
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
