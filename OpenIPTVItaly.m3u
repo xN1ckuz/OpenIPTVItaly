@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-chno="1", Rai 1 HD
+#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="Rai 1 HD" tvg-chno="1", Rai 1 HD
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-name="Rai 2 HD" tvg-chno="2", Rai 2 HD
+#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-name="Rai 2 HD" tvg-chno="2", Rai 2 HD
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-name="Rai 3 HD" tvg-chno="3", Rai 3 HD
@@ -51,7 +51,7 @@ https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifes
 #EXTINF:-1,[26] Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven HD" tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png", 27Twentyseven HD
+#EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-name="27Twentyseven HD" tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png", 27Twentyseven HD
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
 #EXTINF:-1,[28] TV2000
