@@ -118,7 +118,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forc
 #EXTINF:-1 tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/24-raimoviehd.png", Rai Movie HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdng21-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/raimovie_2400/chunklist.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1767344964&tk2=2783b5257485817baa474ebc59cbecc27b341c38e075f7c0ef5d2148ffe85b36
+https://streamcdng14-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/playlist_ma.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1767620639&tof=86400&tk2=f6c4ec1d42a167be12c184b7f366816475e2926b0902b7bfaebe8b4d994a0df2
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png", Rai Premium HD
 #EXTSIZE: Medium
