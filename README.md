@@ -75,12 +75,14 @@ The following channels are currently known to use token-based or unstable URLs:
 
 - Rai 5 HD
 - Rai Movie HD
-- Rai Premium HD
 - Sky TG24
 - Rai Storia HD
 - **Boing Plus (+1 / Channel 45)**  
   Currently, no stable IPTV stream is available.  
-  The channel is kept in the playlist **only to preserve correct LCN numbering**.
+  This channel is kept in the playlist **only to preserve correct LCN numbering**.
+- **Teledue (Channel 12)**  
+  Currently, no stable IPTV stream is available.  
+  This channel is kept in the playlist **only to preserve correct LCN numbering**.
 
 All notable changes are documented in **[CHANGELOG.md](CHANGELOG.md)**.
 
