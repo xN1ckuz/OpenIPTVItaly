@@ -51,9 +51,7 @@ Compatible with:
 * SSIPTV
 * IPTV Smarters
 * TiviMate
-* Perfect Player
 * OttPlayer
-* TVHeadend
 
 ---
 
@@ -63,6 +61,7 @@ The following channels do not currently have an IPTV-compatible stream available
 
 - **Boing Plus (+1 / Channel 45)** *(LCN-only)*
 - **Teledue (Channel 12)** *(LCN-only)*
+- **Canale 63 (Channel 63 known as CS24.Live)** *(LCN-only)*
 
 All notable changes are documented in **[CHANGELOG.md](CHANGELOG.md)**.
 
