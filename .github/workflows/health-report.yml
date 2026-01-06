@@ -1,0 +1,96 @@
+name: IPTV Health Check
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  check-streams:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run health check
+        run: |
+          PLAYLIST="OpenIPTVItaly.m3u"
+          REPORT="health_report.txt"
+          SKIP_LIST="(Teledue|Boing Plus|Canale 63)"
+          EPG_URL=$(grep -oP 'x-tvg-url="\K[^"]+' "$PLAYLIST")
+
+          echo "Scarico EPG da: $EPG_URL"
+
+          curl -s "$EPG_URL" -o epg.xml.gz
+          gunzip -f epg.xml.gz
+
+          echo "IPTV Health Check Report" > $REPORT
+          echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
+          echo "" >> $REPORT
+
+          TOTAL=0
+          WORKING=0
+          DOWN=0
+          SKIPPED=0
+          EPG_OK=0
+          EPG_MISSING=0
+
+          echo "--- Details ---" >> $REPORT
+          echo "" >> $REPORT
+
+          awk '
+            /^#EXTINF/ { extinf=$0 }
+            /^http/ { print extinf "\n" $0 }
+          ' "$PLAYLIST" | \
+          while read -r LINE; do
+
+            if [[ $LINE == \#EXTINF* ]]; then
+              CHANNEL_NAME=$(echo "$LINE" | sed 's/.*,//')
+              TVG_ID=$(echo "$LINE" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
+              continue
+            fi
+
+            URL="$LINE"
+
+            if [[ $CHANNEL_NAME =~ $SKIP_LIST ]]; then
+              echo "[SKIP]  $CHANNEL_NAME | Skipped (known issue)" >> $REPORT
+              SKIPPED=$((SKIPPED+1))
+              continue
+            fi
+
+            TOTAL=$((TOTAL+1))
+
+            if curl -Is --max-time 5 "$URL" >/dev/null; then
+              STREAM_STATUS="OK"
+              WORKING=$((WORKING+1))
+            else
+              STREAM_STATUS="DOWN"
+              DOWN=$((DOWN+1))
+            fi
+
+            if [[ -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml; then
+              EPG_STATUS="EPG OK"
+              EPG_OK=$((EPG_OK+1))
+            else
+              EPG_STATUS="EPG MISSING"
+              EPG_MISSING=$((EPG_MISSING+1))
+            fi
+
+            echo "[$STREAM_STATUS]  $CHANNEL_NAME | Stream $STREAM_STATUS | $EPG_STATUS" >> $REPORT
+
+          done
+
+          echo "" >> $REPORT
+          echo "Total channels tested: $TOTAL" >> $REPORT
+          echo "Skipped: $SKIPPED" >> $REPORT
+          echo "Working streams: $WORKING" >> $REPORT
+          echo "Broken streams: $DOWN" >> $REPORT
+          echo "EPG OK: $EPG_OK" >> $REPORT
+          echo "EPG Missing: $EPG_MISSING" >> $REPORT
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: iptv-health-report
+          path: health_report.txt
