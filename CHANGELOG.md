@@ -17,7 +17,7 @@ and this project follows **Semantic Versioning**.
   - `tvg-id`
   - `tvg-name`
   - `tvg-logo`
-  - LCN (Logical Channel Number)
+  - `tvg-chno`
 - Optimized and unified channel logos
 - Minimal playlist without EPG dependencies (`OpenIPTVItaly_No_EPG`)
 - Clear documentation of known limitations and unstable streams
