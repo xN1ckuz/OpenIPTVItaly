@@ -40,11 +40,22 @@ The playlist follows common IPTV standards:
 
 ### 🔗 Playlist URL
 
+**Main Playlist (with metadata)**  
+Includes full channel metadata and standard playlist structure.
+
 ```
 https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly.m3u
 ```
 
-Compatible with:
+**Minimal Playlist (No EPG)**
+Simplified version with no EPG and no external dependencies.  
+Recommended for maximum compatibility with basic IPTV players and Smart TVs.
+
+```
+https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly_No_EPG.m3u
+```
+
+Both playlists are compatible with the following IPTV players:
 
 * VLC
 * Kodi
