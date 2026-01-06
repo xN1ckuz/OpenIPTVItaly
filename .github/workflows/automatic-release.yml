@@ -1,4 +1,4 @@
-name: Automatic Release on Tag
+name: Create GitHub Release
 
 on:
   push:
@@ -13,10 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Show Release Version
+        run: echo "🚀 Creating GitHub Release for $GITHUB_REF_NAME"
+
       - name: Extract Changelog for Tag
         id: changelog
         run: |
-          TAG="${GITHUB_REF_NAME}"
+          TAG="${GITHUB_REF_NAME#v}"
           echo "Parsing CHANGELOG.md for tag $TAG..."
           BODY=$(awk "/## \[$TAG\]/,/^## /{if(!/^## / && !/\[$TAG\]/) print}" CHANGELOG.md)
           BODY=$(echo "$BODY" | sed '/^[[:space:]]*$/d')
@@ -24,11 +27,18 @@ jobs:
           echo "$BODY" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
+      - name: Prepare Playlist Assets
+        run: |
+          mkdir -p dist
+          cp OpenIPTVItaly.m3u dist/
+          cp OpenIPTVItaly_No_EPG.m3u dist/
+
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ github.ref_name }}
           name: "OpenIPTVItaly ${{ github.ref_name }}"
           body: ${{ steps.changelog.outputs.body }}
+          files: dist/*
         env:
           GITHUB_TOKEN: ${{ secrets.GH_RELEASE_TOKEN }}
