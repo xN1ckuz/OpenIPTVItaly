@@ -19,9 +19,10 @@ jobs:
       - name: Extract Changelog for Tag
         id: changelog
         run: |
-          TAG="${GITHUB_REF_NAME#v}"
+          TAG="${GITHUB_REF_NAME#v}"   # rimuove la "v" iniziale
           echo "Parsing CHANGELOG.md for tag $TAG..."
-          BODY=$(awk "/## \[$TAG\]/,/^## /{if(!/^## / && !/\[$TAG\]/) print}" CHANGELOG.md)
+          PATTERN=$(echo "$TAG" | sed 's/\./\\./g')
+          BODY=$(awk "/## \[$PATTERN\]/,/^## /{if(!/^## / && !/\[$PATTERN\]/) print}" CHANGELOG.md)
           BODY=$(echo "$BODY" | sed '/^[[:space:]]*$/d')
           echo "body<<EOF" >> $GITHUB_OUTPUT
           echo "$BODY" >> $GITHUB_OUTPUT
