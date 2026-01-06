@@ -1,0 +1,32 @@
+name: Automatic Release on Tag
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Extract Changelog for Tag
+        id: changelog
+        run: |
+          TAG="${GITHUB_REF_NAME}"
+          BODY=$(awk "/## \[$TAG\]/,/^## /{if(!/^## /) print}" CHANGELOG.md)
+          BODY=$(echo "$BODY" | sed '/^[[:space:]]*$/d')
+          echo "::set-output name=body::$BODY"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: "OpenIPTVItaly ${{ github.ref_name }}"
+          body: ${{ steps.changelog.outputs.body }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
