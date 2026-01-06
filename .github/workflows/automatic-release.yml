@@ -13,11 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Normalize version (remove leading v)
+        id: normalize
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          echo "version_no_v=$VERSION" >> $GITHUB_OUTPUT
+
       - name: Read Changelog
         id: changelog
         uses: mindsers/changelog-reader-action@v2
         with:
-          version: ${{ github.ref_name }}
+          version: ${{ steps.normalize.outputs.version_no_v }}
           path: ./CHANGELOG.md
 
       - name: Prepare Playlist Assets
