@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/OpenIPTV
 ```
 
 **Minimal Playlist (No EPG)**
+
 Simplified version with no EPG and no external dependencies.  
 Recommended for maximum compatibility with basic IPTV players and Smart TVs.
 
