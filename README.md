@@ -69,8 +69,7 @@ Both playlists are compatible with the following IPTV players:
 ---
 
 ## 📡 EPG Source
-When available, EPG data is obtained from publicly accessible sources provided by  
-**epgshare01.online**.
+When available, EPG data is obtained from publicly accessible sources provided by **epgshare01.online**.
 
 The EPG is used for informational purposes only and reflects standard TV scheduling
 data that is already publicly available.
