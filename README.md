@@ -4,6 +4,8 @@
 
 > 🎯 Goal: quality, reliability and transparency. No broken links, no pay-TV, no DRM.
 
+![Repository activity](https://repobeats.axiom.co/api/embed/a1c5c6d1c89af34b9f797222bd38626917d08bd8.svg "Repobeats analytics image")
+
 ---
 
 ## 📺 Content
