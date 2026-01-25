@@ -30,5 +30,3 @@ body:
     attributes:
       label: Additional Notes (optional)
       description: "Any extra information about the batch or streams"
-
-    required: false
