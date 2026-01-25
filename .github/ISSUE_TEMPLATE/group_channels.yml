@@ -1,42 +1,34 @@
-name: "📺 New Channel Group"
-description: "Propose a batch of new channels for the playlist"
-title: "Add new channel group"
-labels: ["channels", "new"]
+name: "➕ New channel group request"
+description: "Suggest a batch of new public TV channels"
+title: "[NEW GROUP] "
+labels: ["new-channel"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        **Channel Group Proposal**
-        
-        Please provide a batch of channels you want to add. Include as much info as possible for each channel to help review and testing.
-        
   - type: input
     id: group_name
     attributes:
-      label: "Group Name / Description"
-      placeholder: "e.g., Regional channels"
-    required: true
+      label: Group Name / Description
+      placeholder: "e.g. Regional channels - Basilicata"
 
   - type: textarea
     id: channels
     attributes:
-      label: "List of Channels"
-      description: "Provide one channel per line in the format: tvg-name | LCN | URL | Optional notes"
-      placeholder: "Rai 1 | 1 | http://example.com/rai1.m3u8 | main national channel"
-    required: true
+      label: Channels List
+      description: "Provide one channel per line in the format: Channel name | Stream URL | Notes (optional)"
+      placeholder: |
+        RAI 1 | https://example.com/rai1.m3u8 | main national channel
+        RAI 2 | https://example.com/rai2.m3u8 | main national channel
 
   - type: input
     id: tested_players
     attributes:
-      label: "Tested Players"
-      description: "List the IPTV players where the channels have been tested"
+      label: Tested Players
+      description: "List the IPTV players where the channels have been verified"
       placeholder: "VLC, TiviMate, Kodi"
-    required: true
 
   - type: textarea
     id: notes
     attributes:
-      label: "Additional Notes"
-      description: "Any additional information or comments"
-      placeholder: "Optional"
+      label: Additional Notes (optional)
+      description: "Any extra information about the batch or streams"
+
     required: false
