@@ -464,3 +464,118 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-chno="801" tvg-name="Rai 3 TGR Valle d'Aosta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/801-rai3tgrvalledaosta.png", Rai 3 TGR Valle d'Aosta
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/802-rai3tgrpiemonte.png", Rai 3 TGR Piemonte
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/803-rai3tgrliguria.png", Rai 3 TGR Liguria
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/804-rai3tgrlombardia.png", Rai 3 TGR Lombardia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="805" tvg-name="Rai 3 TGR Veneto" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/805-rai3tgrveneto.png", Rai 3 TGR Veneto
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="806" tvg-name="Rai 3 TGR Bolzano" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/806-rai3tgrbolzano.png", Rai 3 TGR Bolzano
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="807" tvg-name="Rai 3 TGR Trento" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/807-rai3tgrtrento.png", Rai 3 TGR Trento
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="808" tvg-name="Rai 3 TGR Südtirol HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/808-rai3tgrsudtirolhd.png", Rai 3 TGR Südtirol HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/809-rai3tgrfriulivenetogiulia.png", Rai 3 TGR Friuli Venezia Giulia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="810" tvg-name="Rai 3 TGR Furlanija Krajina" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/810-rai3tgrfurlanijakrajina.png", Rai 3 TGR Furlanija Krajina
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="811" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/811-rai3tgremliaromagna.png", Rai 3 TGR Emilia-Romagna
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="812" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/812-rai3tgrtoscana.png", Rai 3 TGR Toscana
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="813" tvg-name="Rai 3 TGR Marche" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/813-rai3tgrmarche.png", Rai 3 TGR Marche
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="814" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/814-rai3tgrumbria.png", Rai 3 TGR Umbria
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="815" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/815-rai3tgrlazio.png", Rai 3 TGR Lazio
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="816" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/816-rai3tgrabruzzo.png", Rai 3 TGR Abruzzo
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="817" tvg-name="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/817-rai3tgrmolise.png", Rai 3 TGR Molise
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="818" tvg-name="Rai 3 TGR Campania" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/818-rai3tgrcampania.png", Rai 3 TGR Campania
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="819" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/819-rai3tgrpuglia.png", Rai 3 TGR Puglia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="820" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/820-rai3tgrbasilicata.png", Rai 3 TGR Basilicata
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="821" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/821-rai3tgrcalabria.png", Rai 3 TGR Calabria
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="822" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/822-rai3tgrsardegna.png", Rai 3 TGR Sardegna
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="823" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/823-rai3tgrsicilia.png", Rai 3 TGR Sicilia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
