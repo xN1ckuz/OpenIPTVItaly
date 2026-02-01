@@ -7,6 +7,35 @@ and this project follows **Semantic Versioning**.
 
 ---
 
+## [1.2.0] - 2026-02-01
+
+### Added
+- All RAI 3 TGR regional channels 
+  - RAI 3 TGR Valle d'Aosta
+  - RAI 3 TGR Piemonte
+  - RAI 3 TGR Liguria
+  - RAI 3 TGR Lombardia
+  - RAI 3 TGR Veneto
+  - RAI 3 TGR Bolzano
+  - RAI 3 TGR Trento
+  - RAI 3 TGR Südtirol HD
+  - RAI 3 TGR Friuli Venezia Giulia
+  - RAI 3 TGR Furlanija Krajina
+  - RAI 3 TGR Emilia-Romagna
+  - RAI 3 TGR Toscana
+  - RAI 3 TGR Marche
+  - RAI 3 TGR Umbria
+  - RAI 3 TGR Lazio
+  - RAI 3 TGR Abruzzo
+  - RAI 3 TGR Molise
+  - RAI 3 TGR Campania
+  - RAI 3 TGR Puglia
+  - RAI 3 TGR Basilicata
+  - RAI 3 TGR Calabria
+  - RAI 3 TGR Sardegna
+  - RAI 3 TGR Sicilia
+- Logos for all TGR channels added
+
 ## [1.1.0] - 2026-01-26
 
 ### Added
