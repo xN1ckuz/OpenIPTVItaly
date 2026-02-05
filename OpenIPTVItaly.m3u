@@ -78,7 +78,7 @@ https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png", TRM H24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://www.youtube.com/watch?v=10xW5c6rmd0
+https://www.youtube.com/watch?v=kbgDmdLMoPQ
 
 #EXTINF:-1 tvg-chno="17" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png", Telebari
 #EXTSIZE: Medium
@@ -223,7 +223,7 @@ https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="45" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png", Boing Plus
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live1/ch-kb/kb-clr.isml/manifest.mpd
+https://smplu.link/xN1ckuz-BoingPlus.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png", Cartoonito HD
 #EXTSIZE: Medium
@@ -313,7 +313,7 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1420973156.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png", Canale 63
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://canale.63.it/live/63/63/playlist.m3u8
+https://smplu.link/xN1ckuz-Canale63.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/64-supertennis.png", SuperTennis
 #EXTSIZE: Medium
@@ -388,7 +388,7 @@ https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visu
 #EXTINF:-1 tvg-chno="257" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png", Gambero Rosso
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(Tf6E1oujgBY0I_3NrFJ-AEezIh_bcK25ykmyRbj3p0vf5_3UE8kql6GEO54wkFOEbn0K16NtoYGWw4VhItdc55WaZlyh45tTfH5Jcr6tvnrxuxoTnbm_u_CE0K7ueryF)/cloud/3/x9us6y4/s/live-720.m3u8
+https://smplu.link/xN1ckuz-GamberoRosso.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png", RadioFreccia
 #EXTSIZE: Medium
@@ -460,7 +460,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="772" tvg-name="Radio Montecarlo TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/772-rmc.png", Radio Montecarlo TV
+#EXTINF:-1 tvg-chno="772" tvg-id="RMC.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/772-rmc.png", Radio Montecarlo TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
