@@ -7,10 +7,22 @@ and this project follows **Semantic Versioning**.
 
 ---
 
+## [1.2.1] - 2026-02-05
+
+### Fixed
+
+- Updated 4 channels stream:
+  - TRM H24
+  - Boing Plus
+  - Canale 63
+  - Gambero Rosso
+- EPG for Radio Montecarlo TV
+
 ## [1.2.0] - 2026-02-01
 
 ### Added
-- All RAI 3 TGR regional channels 
+
+- All RAI 3 TGR regional channels
   - RAI 3 TGR Valle d'Aosta
   - RAI 3 TGR Piemonte
   - RAI 3 TGR Liguria
@@ -39,6 +51,7 @@ and this project follows **Semantic Versioning**.
 ## [1.1.0] - 2026-01-26
 
 ### Added
+
 - Secondary and thematic Italian TV channels:
   - ACI Sport TV
   - BBC Top Gear Italy
@@ -50,11 +63,13 @@ and this project follows **Semantic Versioning**.
   - Sportitalia Solocalcio HD
 
 ### Fixed
+
 - Updated metadata for existing channels (logos, tvg-id)
 
 ## [1.0.0] - 2026-01-06
 
 ### Added
+
 - First public stable release of **OpenIPTVItaly**
 - Curated free-to-air Italian IPTV playlist
 - Publicly accessible and verifiable streams only
@@ -68,6 +83,7 @@ and this project follows **Semantic Versioning**.
 - Clear documentation of known limitations and unstable streams
 
 ### Notes
+
 - This is the first official public release.
 - No DRM-protected, pay-TV or premium content is included.
 - Token-based or unstable streams are explicitly documented as known issues.
