@@ -49,6 +49,7 @@ Recommended for maximum compatibility with basic IPTV players and Smart TVs.
 
 ```md
 https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly_No_EPG.m3u 
+```
 
 Both playlists are compatible with the following IPTV players:
 
