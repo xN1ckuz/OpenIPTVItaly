@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/1-rai1hd.png", Rai 1 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/2-rai2hd.png", Rai 2 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/3-rai3hd.png", Rai 3 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
 #EXTSIZE: Medium
@@ -103,7 +103,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="21" tvg-id="Rai.4..5021.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/21-rai4hd.png", Rai 4 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="22" tvg-id="Iris.it" tvg-name="Iris HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png", Iris HD
 #EXTSIZE: Medium
@@ -113,17 +113,17 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/23-rai5hd.png", Rai 5 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/24-raimoviehd.png", Rai Movie HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png", Rai Premium HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png", Cielo HD
 #EXTSIZE: Medium
@@ -208,7 +208,7 @@ https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/42-raigulphd.png", Rai Gulp HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/43-raiyoyohd.png", Rai Yoyo HD
 #EXTSIZE: Medium
@@ -238,7 +238,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 #EXTINF:-1 tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="49" tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/49-italia2hd.png", Italia 2 HD
 #EXTSIZE: Medium
@@ -268,7 +268,7 @@ https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png", Rai Storia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png", Mediaset Extra HD
 #EXTSIZE: Medium
@@ -283,12 +283,12 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Rai Scuola HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png", Rai Scuola HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png", Rai Sport HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="59" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png", Discovery Turbo
 #EXTSIZE: Medium
