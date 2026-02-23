@@ -1,581 +1,581 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/1-rai1hd.png", Rai 1 HD
+#EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/1-rai1hd.png", Rai 1 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/2-rai2hd.png", Rai 2 HD
+#EXTINF:-1 tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/2-rai2hd.png", Rai 2 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/3-rai3hd.png", Rai 3 HD
+#EXTINF:-1 tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/3-rai3hd.png", Rai 3 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
+#EXTINF:-1 tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/5-canale5hd.png", Canale 5 HD
+#EXTINF:-1 tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/5-canale5hd.png", Canale 5 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Italia.1.it" tvg-name="Italia 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/6-italia1hd.png", Italia 1 HD
+#EXTINF:-1 tvg-chno="6" tvg-id="Italia.1.it" tvg-name="Italia 1 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/6-italia1hd.png", Italia 1 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="7" tvg-id="LA7.HD.it" tvg-name="LA7 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/7-la7hd.png", LA7 HD
+#EXTINF:-1 tvg-chno="7" tvg-id="LA7.HD.it" tvg-name="LA7 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/7-la7hd.png", LA7 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/8-tv8hd.png", TV8 HD
+#EXTINF:-1 tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/8-tv8hd.png", TV8 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
+#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
+#EXTINF:-1 tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream12.xdevel.com/video2s976570-2526/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="RADIONORBA.TV.it" tvg-name="Radionorba TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/11-radionorbatv.png", Radionorba TV HD
+#EXTINF:-1 tvg-chno="11" tvg-id="RADIONORBA.TV.it" tvg-name="Radionorba TV HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/11-radionorbatv.png", Radionorba TV HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-name="Teledue" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/12-teledue.png", Teledue
+#EXTINF:-1 tvg-chno="12" tvg-name="Teledue" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/12-teledue.png", Teledue
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream12.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="TG.NORBA.24.it" tvg-name="TG Norba 24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
+#EXTINF:-1 tvg-chno="13" tvg-id="TG.NORBA.24.it" tvg-name="TG Norba 24" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream6.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png", Antenna Sud
+#EXTINF:-1 tvg-chno="14" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png", Antenna Sud
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
+#EXTINF:-1 tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png", TRM H24
+#EXTINF:-1 tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png", TRM H24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.youtube.com/watch?v=kbgDmdLMoPQ
 
-#EXTINF:-1 tvg-chno="17" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png", Telebari
+#EXTINF:-1 tvg-chno="17" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png", Telebari
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://w1.mediastreaming.it/telebari/livestream/manifest.mpd
 
-#EXTINF:-1 tvg-chno="18" tvg-name="Telesveva" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/18-telesveva.png", Telesveva
+#EXTINF:-1 tvg-chno="18" tvg-name="Telesveva" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/18-telesveva.png", Telesveva
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live2.telesveva.com/hls/svevahd.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
+#EXTINF:-1 tvg-chno="19" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/chunklist_w1250153136_b3000000_slen.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
+#EXTINF:-1 tvg-chno="20" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Rai.4..5021.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/21-rai4hd.png", Rai 4 HD
+#EXTINF:-1 tvg-chno="21" tvg-id="Rai.4..5021.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/21-rai4hd.png", Rai 4 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Iris.it" tvg-name="Iris HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png", Iris HD
+#EXTINF:-1 tvg-chno="22" tvg-id="Iris.it" tvg-name="Iris HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png", Iris HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/23-rai5hd.png", Rai 5 HD
+#EXTINF:-1 tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/23-rai5hd.png", Rai 5 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/24-raimoviehd.png", Rai Movie HD
+#EXTINF:-1 tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/24-raimoviehd.png", Rai Movie HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png", Rai Premium HD
+#EXTINF:-1 tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png", Rai Premium HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png", Cielo HD
+#EXTINF:-1 tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png", Cielo HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="27" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/27-27hd.png", 27Twentyseven HD
+#EXTINF:-1 tvg-chno="27" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/27-27hd.png", 27Twentyseven HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="28" tvg-name="TV 2000" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/28-tv2000.png", TV2000
+#EXTINF:-1 tvg-chno="28" tvg-name="TV 2000" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/28-tv2000.png", TV2000
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png", LA7 Cinema
+#EXTINF:-1 tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png", LA7 Cinema
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png", La5 HD
+#EXTINF:-1 tvg-chno="30" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png", La5 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
+#EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="QVC.it" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/32-qvc.png", QVC HD
+#EXTINF:-1 tvg-chno="32" tvg-id="QVC.it" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/32-qvc.png", QVC HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Food.Network.it" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png", Food Network HD
+#EXTINF:-1 tvg-chno="33" tvg-id="Food.Network.it" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png", Food Network HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="Cine34 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/34-cine34hd.png", Cine34 HD
+#EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="Cine34 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/34-cine34hd.png", Cine34 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/35-focushd.png", FOCUS HD
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/35-focushd.png", FOCUS HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="36" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/36-rtl1025.png", RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/36-rtl1025.png", RTL 102.5
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Discovery.Channel.it" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/37-discovery.png", Discovery
+#EXTINF:-1 tvg-chno="37" tvg-id="Discovery.Channel.it" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/37-discovery.png", Discovery
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/38-giallohd.png", Giallo
+#EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/38-giallohd.png", Giallo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Top.Crime.it" tvg-name="Top Crime HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/39-topcrimehd.png", Top Crime HD
+#EXTINF:-1 tvg-chno="39" tvg-id="Top.Crime.it" tvg-name="Top Crime HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/39-topcrimehd.png", Top Crime HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Boing.it" tvg-name="Boing HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/40-boing.png", Boing HD
+#EXTINF:-1 tvg-chno="40" tvg-id="Boing.it" tvg-name="Boing HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/40-boing.png", Boing HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/41-k2.png", K2
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/41-k2.png", K2
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/42-raigulphd.png", Rai Gulp HD
+#EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/42-raigulphd.png", Rai Gulp HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/43-raiyoyohd.png", Rai Yoyo HD
+#EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/43-raiyoyohd.png", Rai Yoyo HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/44-frisbee.png", Frisbee
+#EXTINF:-1 tvg-chno="44" tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/44-frisbee.png", Frisbee
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png", Boing Plus
+#EXTINF:-1 tvg-chno="45" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png", Boing Plus
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://smplu.link/xN1ckuz-BoingPlus.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png", Cartoonito HD
+#EXTINF:-1 tvg-chno="46" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png", Cartoonito HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/47-super.png", Super!
+#EXTINF:-1 tvg-chno="47" tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/47-super.png", Super!
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD
+#EXTINF:-1 tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/49-italia2hd.png", Italia 2 HD
+#EXTINF:-1 tvg-chno="49" tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/49-italia2hd.png", Italia 2 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png", Sky TG24
+#EXTINF:-1 tvg-chno="50" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png", Sky TG24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="51" tvg-id="TGCom.it" tvg-name="TGCOM 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png", TGCOM 24 HD
+#EXTINF:-1 tvg-chno="51" tvg-id="TGCom.it" tvg-name="TGCOM 24 HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png", TGCOM 24 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="52" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/52-dmaxhd.png", DMAX
+#EXTINF:-1 tvg-chno="52" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/52-dmaxhd.png", DMAX
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-name="Italia 53" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png", Italia 53
+#EXTINF:-1 tvg-chno="53" tvg-name="Italia 53" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png", Italia 53
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png", Rai Storia HD
+#EXTINF:-1 tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png", Rai Storia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png", Mediaset Extra HD
+#EXTINF:-1 tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png", Mediaset Extra HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="56" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png", HGTV - Home&Garden
+#EXTINF:-1 tvg-chno="56" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png", HGTV - Home&Garden
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Rai Scuola HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png", Rai Scuola HD
+#EXTINF:-1 tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Rai Scuola HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png", Rai Scuola HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png", Rai Sport HD
+#EXTINF:-1 tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png", Rai Sport HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png", Discovery Turbo
+#EXTINF:-1 tvg-chno="59" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png", Discovery Turbo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png", Sportitalia HD
+#EXTINF:-1 tvg-chno="60" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png", Sportitalia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-name="il61" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/61-il61.png", il61
+#EXTINF:-1 tvg-chno="61" tvg-name="il61" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/61-il61.png", il61
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2126077193.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-name="Donna TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/62-donnatv.png", Donna TV
+#EXTINF:-1 tvg-chno="62" tvg-name="Donna TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/62-donnatv.png", Donna TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1420973156.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png", Canale 63
+#EXTINF:-1 tvg-chno="63" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png", Canale 63
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://smplu.link/xN1ckuz-Canale63.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/64-supertennis.png", SuperTennis
+#EXTINF:-1 tvg-chno="64" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/64-supertennis.png", SuperTennis
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-name="Alma TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/65-almatv.png", Alma TV
+#EXTINF:-1 tvg-chno="65" tvg-name="Alma TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/65-almatv.png", Alma TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/66-radio105.png", Radio 105 TV
+#EXTINF:-1 tvg-chno="66" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/66-radio105.png", Radio 105 TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="67" tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/67-r101.png", R101 TV
+#EXTINF:-1 tvg-chno="67" tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/67-r101.png", R101 TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="68" tvg-name="Bom Channel" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/68-bomchannel.png", Bom Channel
+#EXTINF:-1 tvg-chno="68" tvg-name="Bom Channel" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/68-bomchannel.png", Bom Channel
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Deejay.TV.it"tvg-name="Deejay TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/69-deejay.png", Deejay TV HD
+#EXTINF:-1 tvg-chno="69" tvg-id="Deejay.TV.it"tvg-name="Deejay TV HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/69-deejay.png", Deejay TV HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Radio.Italia.TV.HD.it" tvg-name="RadioItaliaTV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/70-radioitalia.png", RadioItaliaTV
+#EXTINF:-1 tvg-chno="70" tvg-id="Radio.Italia.TV.HD.it" tvg-name="RadioItaliaTV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/70-radioitalia.png", RadioItaliaTV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-name="RSI La 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/71-rsila1.png", RSI La 1
+#EXTINF:-1 tvg-chno="71" tvg-name="RSI La 1" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/71-rsila1.png", RSI La 1
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-chno="72" tvg-name="RSI La 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/72-rsila2.png", RSI La 2
+#EXTINF:-1 tvg-chno="72" tvg-name="RSI La 2" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/72-rsila2.png", RSI La 2
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
-#EXTINF:-1 tvg-chno="101" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png", Rai 4K
+#EXTINF:-1 tvg-chno="101" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png", Rai 4K
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-name="FIFA+" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/102-fifa.png", FIFA+
+#EXTINF:-1 tvg-chno="102" tvg-name="FIFA+" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/102-fifa.png", FIFA+
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png", Radio TV Serie A
+#EXTINF:-1 tvg-chno="103" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png", Radio TV Serie A
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="158" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/158-kisskiss.png", Radio Kiss Kiss TV
+#EXTINF:-1 tvg-chno="158" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/158-kisskiss.png", Radio Kiss Kiss TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-name="Rai Radio 2 Visual" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/202-rairadio2.png", Rai Radio 2 Visual
+#EXTINF:-1 tvg-chno="202" tvg-name="Rai Radio 2 Visual" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/202-rairadio2.png", Rai Radio 2 Visual
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="257" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png", Gambero Rosso
+#EXTINF:-1 tvg-chno="257" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png", Gambero Rosso
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://smplu.link/xN1ckuz-GamberoRosso.m3u8
 
-#EXTINF:-1 tvg-chno="258" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png", RadioFreccia
+#EXTINF:-1 tvg-chno="258" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png", RadioFreccia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="263" tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/263-virginradio.png", Virgin Radio
+#EXTINF:-1 tvg-chno="263" tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/263-virginradio.png", Virgin Radio
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 tvg-chno="265" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/265-rdssocialtv.png", RDS Social TV
+#EXTINF:-1 tvg-chno="265" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/265-rdssocialtv.png", RDS Social TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream.rdstv.radio/index.m3u8
 
-#EXTINF:-1 tvg-chno="266" tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/266-radiozeta.png", Radio Zeta
+#EXTINF:-1 tvg-chno="266" tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/266-radiozeta.png", Radio Zeta
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="401" tvg-id="Euronews.IT" tvg-name="Euronews IT" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png", Euronews IT
+#EXTINF:-1 tvg-chno="401" tvg-id="Euronews.IT" tvg-name="Euronews IT" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png", Euronews IT
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
 
-#EXTINF:-1 tvg-chno="402" tvg-id="ACI.Sport.TV.HD.it" tvg-name="ACI Sport TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png", ACI Sport TV HD
+#EXTINF:-1 tvg-chno="402" tvg-id="ACI.Sport.TV.HD.it" tvg-name="ACI Sport TV HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png", ACI Sport TV HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
 
-#EXTINF:-1 tvg-chno="403" tvg-name="BBC Top Gear Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png", BBC Top Gear Italy
+#EXTINF:-1 tvg-chno="403" tvg-name="BBC Top Gear Italy" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png", BBC Top Gear Italy
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist1080P.m3u8
 
-#EXTINF:-1 tvg-chno="404" tvg-name="Hell's Kitchen Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png", Hell's Kitchen Italy
+#EXTINF:-1 tvg-chno="404" tvg-name="Hell's Kitchen Italy" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png", Hell's Kitchen Italy
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-chno="405" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png", Sportitalia Solocalcio HD
+#EXTINF:-1 tvg-chno="405" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png", Sportitalia Solocalcio HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="406" tvg-name="RaiPlay Sport 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png", RaiPlay Sport 1
+#EXTINF:-1 tvg-chno="406" tvg-name="RaiPlay Sport 1" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png", RaiPlay Sport 1
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="407" tvg-name="Italian Fishing TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/407-italianfishingtv.png", Italian Fishing TV
+#EXTINF:-1 tvg-chno="407" tvg-name="Italian Fishing TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/407-italianfishingtv.png", Italian Fishing TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://fms.premio.link/fishingtv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="408" tvg-name="Radio Carina TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/408-radiocarinatv.png", Radio Carina TV
+#EXTINF:-1 tvg-chno="408" tvg-name="Radio Carina TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/408-radiocarinatv.png", Radio Carina TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="713" tvg-name="Radio Capital TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/713-radiocapital.png", Radio Capital TV
+#EXTINF:-1 tvg-chno="713" tvg-name="Radio Capital TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/713-radiocapital.png", Radio Capital TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="715" tvg-name="M2O TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/715-m2o.png", M2O TV
+#EXTINF:-1 tvg-chno="715" tvg-name="M2O TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/715-m2o.png", M2O TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="772" tvg-id="RMC.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/772-rmc.png", Radio Montecarlo TV
+#EXTINF:-1 tvg-chno="772" tvg-id="RMC.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/772-rmc.png", Radio Montecarlo TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 tvg-chno="801" tvg-name="Rai 3 TGR Valle d'Aosta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/801-rai3tgrvalledaosta.png", Rai 3 TGR Valle d'Aosta
+#EXTINF:-1 tvg-chno="801" tvg-name="Rai 3 TGR Valle d'Aosta" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/801-rai3tgrvalledaosta.png", Rai 3 TGR Valle d'Aosta
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="802" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/802-rai3tgrpiemonte.png", Rai 3 TGR Piemonte
+#EXTINF:-1 tvg-chno="802" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/802-rai3tgrpiemonte.png", Rai 3 TGR Piemonte
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="803" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/803-rai3tgrliguria.png", Rai 3 TGR Liguria
+#EXTINF:-1 tvg-chno="803" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/803-rai3tgrliguria.png", Rai 3 TGR Liguria
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="804" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/804-rai3tgrlombardia.png", Rai 3 TGR Lombardia
+#EXTINF:-1 tvg-chno="804" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/804-rai3tgrlombardia.png", Rai 3 TGR Lombardia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombardia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="805" tvg-name="Rai 3 TGR Veneto" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/805-rai3tgrveneto.png", Rai 3 TGR Veneto
+#EXTINF:-1 tvg-chno="805" tvg-name="Rai 3 TGR Veneto" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/805-rai3tgrveneto.png", Rai 3 TGR Veneto
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="806" tvg-name="Rai 3 TGR Bolzano" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/806-rai3tgrbolzano.png", Rai 3 TGR Bolzano
+#EXTINF:-1 tvg-chno="806" tvg-name="Rai 3 TGR Bolzano" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/806-rai3tgrbolzano.png", Rai 3 TGR Bolzano
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="807" tvg-name="Rai 3 TGR Trento" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/807-rai3tgrtrento.png", Rai 3 TGR Trento
+#EXTINF:-1 tvg-chno="807" tvg-name="Rai 3 TGR Trento" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/807-rai3tgrtrento.png", Rai 3 TGR Trento
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="808" tvg-name="Rai 3 TGR Südtirol HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/808-rai3tgrsudtirolhd.png", Rai 3 TGR Südtirol HD
+#EXTINF:-1 tvg-chno="808" tvg-name="Rai 3 TGR Südtirol HD" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/808-rai3tgrsudtirolhd.png", Rai 3 TGR Südtirol HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="809" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/809-rai3tgrfriulivenetogiulia.png", Rai 3 TGR Friuli Venezia Giulia
+#EXTINF:-1 tvg-chno="809" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/809-rai3tgrfriulivenetogiulia.png", Rai 3 TGR Friuli Venezia Giulia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="810" tvg-name="Rai 3 TGR Furlanija Krajina" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/810-rai3tgrfurlanijakrajina.png", Rai 3 TGR Furlanija Krajina
+#EXTINF:-1 tvg-chno="810" tvg-name="Rai 3 TGR Furlanija Krajina" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/810-rai3tgrfurlanijakrajina.png", Rai 3 TGR Furlanija Krajina
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="811" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/811-rai3tgremliaromagna.png", Rai 3 TGR Emilia-Romagna
+#EXTINF:-1 tvg-chno="811" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/811-rai3tgremliaromagna.png", Rai 3 TGR Emilia-Romagna
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="812" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/812-rai3tgrtoscana.png", Rai 3 TGR Toscana
+#EXTINF:-1 tvg-chno="812" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/812-rai3tgrtoscana.png", Rai 3 TGR Toscana
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="813" tvg-name="Rai 3 TGR Marche" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/813-rai3tgrmarche.png", Rai 3 TGR Marche
+#EXTINF:-1 tvg-chno="813" tvg-name="Rai 3 TGR Marche" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/813-rai3tgrmarche.png", Rai 3 TGR Marche
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="814" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/814-rai3tgrumbria.png", Rai 3 TGR Umbria
+#EXTINF:-1 tvg-chno="814" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/814-rai3tgrumbria.png", Rai 3 TGR Umbria
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="815" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/815-rai3tgrlazio.png", Rai 3 TGR Lazio
+#EXTINF:-1 tvg-chno="815" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/815-rai3tgrlazio.png", Rai 3 TGR Lazio
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="816" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/816-rai3tgrabruzzo.png", Rai 3 TGR Abruzzo
+#EXTINF:-1 tvg-chno="816" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/816-rai3tgrabruzzo.png", Rai 3 TGR Abruzzo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="817" tvg-name="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/817-rai3tgrmolise.png", Rai 3 TGR Molise
+#EXTINF:-1 tvg-chno="817" tvg-name="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/817-rai3tgrmolise.png", Rai 3 TGR Molise
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="818" tvg-name="Rai 3 TGR Campania" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/818-rai3tgrcampania.png", Rai 3 TGR Campania
+#EXTINF:-1 tvg-chno="818" tvg-name="Rai 3 TGR Campania" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/818-rai3tgrcampania.png", Rai 3 TGR Campania
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="819" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/819-rai3tgrpuglia.png", Rai 3 TGR Puglia
+#EXTINF:-1 tvg-chno="819" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/819-rai3tgrpuglia.png", Rai 3 TGR Puglia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="820" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/820-rai3tgrbasilicata.png", Rai 3 TGR Basilicata
+#EXTINF:-1 tvg-chno="820" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/820-rai3tgrbasilicata.png", Rai 3 TGR Basilicata
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="821" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/821-rai3tgrcalabria.png", Rai 3 TGR Calabria
+#EXTINF:-1 tvg-chno="821" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/821-rai3tgrcalabria.png", Rai 3 TGR Calabria
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="822" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/822-rai3tgrsardegna.png", Rai 3 TGR Sardegna
+#EXTINF:-1 tvg-chno="822" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/822-rai3tgrsardegna.png", Rai 3 TGR Sardegna
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="823" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/823-rai3tgrsicilia.png", Rai 3 TGR Sicilia
+#EXTINF:-1 tvg-chno="823" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/OpenIPTVItaly/refs/heads/main/Logos/823-rai3tgrsicilia.png", Rai 3 TGR Sicilia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
