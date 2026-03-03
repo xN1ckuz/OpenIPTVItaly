@@ -1,0 +1,123 @@
+IPTV Health Dashboard
+Generated: Sat Feb 14 19:06:26 UTC 2026
+
+[DOWN]   Rai 1 HD
+[DOWN]   Rai 2 HD
+[DOWN]   Rai 3 HD
+[DOWN]   Rete 4 HD
+[DOWN]   Canale 5 HD
+[DOWN]   Italia 1 HD
+[DOWN]   LA7 HD
+[DOWN]   TV8 HD
+[DOWN]   NOVE HD
+[DOWN]   Telenorba
+[DOWN]   Radionorba TV HD
+[SKIP]   Teledue
+[DOWN]   TG Norba 24
+[DOWN]   Antenna Sud
+[DOWN]   Telerama
+[DOWN]   TRM H24
+[DOWN]   Telebari
+[DOWN]   Telesveva
+[DOWN]   Tele Dehon
+[DOWN]   20Mediaset HD
+[DOWN]   Rai 4 HD
+[DOWN]   Iris HD
+[DOWN]   Rai 5 HD
+[DOWN]   Rai Movie HD
+[DOWN]   Rai Premium HD
+[DOWN]   Cielo HD
+[DOWN]   27Twentyseven HD
+[DOWN]   TV2000
+[DOWN]   LA7 Cinema
+[DOWN]   La5 HD
+[DOWN]   Real Time HD
+[DOWN]   QVC HD
+[DOWN]   Food Network HD
+[DOWN]   Cine34 HD
+[DOWN]   FOCUS HD
+[DOWN]   RTL 102.5
+[DOWN]   Discovery
+[DOWN]   Giallo
+[DOWN]   Top Crime HD
+[DOWN]   Boing HD
+[DOWN]   K2
+[DOWN]   Rai Gulp HD
+[DOWN]   Rai Yoyo HD
+[DOWN]   Frisbee
+[DOWN]   Boing Plus
+[DOWN]   Cartoonito HD
+[DOWN]   Super!
+[DOWN]   Rai News 24 HD
+[DOWN]   Italia 2 HD
+[DOWN]   Sky TG24
+[DOWN]   TGCOM 24 HD
+[DOWN]   DMAX
+[DOWN]   Italia 53
+[DOWN]   Rai Storia HD
+[DOWN]   Mediaset Extra HD
+[DOWN]   HGTV - Home&Garden
+[DOWN]   Rai Scuola HD
+[DOWN]   Rai Sport HD
+[DOWN]   Discovery Turbo
+[DOWN]   Sportitalia HD
+[DOWN]   il61
+[DOWN]   Donna TV
+[DOWN]   Canale 63
+[DOWN]   SuperTennis
+[DOWN]   Alma TV
+[DOWN]   Radio 105 TV
+[DOWN]   R101 TV
+[DOWN]   Bom Channel
+[DOWN]   Deejay TV HD
+[DOWN]   RadioItaliaTV
+[DOWN]   RSI La 1
+[DOWN]   RSI La 2
+[DOWN]   Rai 4K
+[DOWN]   FIFA+
+[DOWN]   Radio TV Serie A
+[DOWN]   Radio Kiss Kiss TV
+[DOWN]   Rai Radio 2 Visual
+[DOWN]   Gambero Rosso
+[DOWN]   RadioFreccia
+[DOWN]   Virgin Radio
+[DOWN]   RDS Social TV
+[DOWN]   Radio Zeta
+[DOWN]   Euronews IT
+[DOWN]   ACI Sport TV HD
+[DOWN]   BBC Top Gear Italy
+[DOWN]   Hell's Kitchen Italy
+[DOWN]   Sportitalia Solocalcio HD
+[DOWN]   RaiPlay Sport 1
+[DOWN]   Italian Fishing TV
+[DOWN]   Radio Carina TV
+[DOWN]   Radio Capital TV
+[DOWN]   M2O TV
+[DOWN]   Radio Montecarlo TV
+[DOWN]   Rai 3 TGR Valle d'Aosta
+[DOWN]   Rai 3 TGR Piemonte
+[DOWN]   Rai 3 TGR Liguria
+[DOWN]   Rai 3 TGR Lombardia
+[DOWN]   Rai 3 TGR Veneto
+[DOWN]   Rai 3 TGR Bolzano
+[DOWN]   Rai 3 TGR Trento
+[DOWN]   Rai 3 TGR Südtirol HD
+[DOWN]   Rai 3 TGR Friuli Venezia Giulia
+[DOWN]   Rai 3 TGR Furlanija Krajina
+[DOWN]   Rai 3 TGR Emilia-Romagna
+[DOWN]   Rai 3 TGR Toscana
+[DOWN]   Rai 3 TGR Marche
+[DOWN]   Rai 3 TGR Umbria
+[DOWN]   Rai 3 TGR Lazio
+[DOWN]   Rai 3 TGR Abruzzo
+[DOWN]   Rai 3 TGR Molise
+[DOWN]   Rai 3 TGR Campania
+[DOWN]   Rai 3 TGR Puglia
+[DOWN]   Rai 3 TGR Basilicata
+[DOWN]   Rai 3 TGR Calabria
+[DOWN]   Rai 3 TGR Sardegna
+
+Total tested: 114
+Working:      0
+Down:         114
+Skipped:      1

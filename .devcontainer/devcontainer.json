@@ -1,0 +1,8 @@
+{
+  "name": "IPTV Dev Container",
+  "image": "ubuntu:24.04",
+  "runArgs": ["--network=host"],
+  "workspaceFolder": "/workspace",
+  "mounts": ["source=${localWorkspaceFolder},target=/workspace,type=bind"],
+  "postCreateCommand": "bash /workspace/.devcontainer/setup.sh"
+}
