@@ -7,6 +7,21 @@ and this project follows **Semantic Versioning**.
 
 ---
 
+## [1.3.0] - 2026-05-08
+
+### Fixed
+
+- La 7
+- TeleNorba
+- TG Norba 24
+- Antenna Sud
+- TRM H24
+- Rai 5 HD
+- Rai Premium HD
+- La 7 Cinema
+- Rai Gulp HD
+- Boing Plus
+
 ## [1.2.2] - 2026-03-03
 
 ### Fixed
