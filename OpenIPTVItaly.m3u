@@ -43,7 +43,9 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
 #EXTSIZE: Medium
