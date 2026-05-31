@@ -43,9 +43,9 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6pJgivXkeuqUheWrdtxoeA","k":"gvH1T9wOSpyE38ck_G1aZQ"},{"kty":"oct","kid":"rCHbtPD2RuyPvaWfxTq5JA","k":"Et8BFGvbaFUV8Ys_k4D3lg"},{"kty":"oct","kid":"BS1wfy_GQKKSsVSMccQAPA","k":"qgQ8t0SWMYjtfrwoO3Y9bA"},{"kty":"oct","kid":"lKp1_i_KSwiRrd82dgtiQw","k":"POQFqf_vNm0FB5EksZZlAw"},{"kty":"oct","kid":"_a5T3tkeTUKZrMxPAVO7qQ","k":"lfEXeiD25jfSqcPbLMqpAQ"},{"kty":"oct","kid":"Xy-S3yiXS7OGF0TUILRYyQ","k":"ujFkZ06YNVIH4N-rys8pAA"},{"kty":"oct","kid":"wJvM7H8UTaa2jT1_P5xTvQ","k":"nNKkjWFWvNZ6ugASqWRk0g"},{"kty":"oct","kid":"PLIiLt_ERca_zZglHZgKLg","k":"DtuLCQ8rFVrava1bgG2l-g"}],"type":"temporary"}
+https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
 #EXTSIZE: Medium
