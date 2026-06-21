@@ -12,6 +12,7 @@ and this project follows **Semantic Versioning**.
 ### Fixed
 
 - La 7
+- NOVE
 - TeleNorba
 - TG Norba 24
 - Antenna Sud
@@ -20,7 +21,10 @@ and this project follows **Semantic Versioning**.
 - Rai Premium HD
 - La 7 Cinema
 - Rai Gulp HD
+- Rai Yoyo HD
 - Boing Plus
+- Rai Storia HD
+- Rai Sport HD
 
 ## [1.2.2] - 2026-03-03
 
