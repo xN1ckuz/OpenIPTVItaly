@@ -20,6 +20,7 @@ and this project follows **Semantic Versioning**.
 - Rai Premium HD
 - LA7 Cinema
 - Real Time HD
+- Food Network
 - Rai Gulp HD
 - Rai Yoyo HD
 - Boing Plus
