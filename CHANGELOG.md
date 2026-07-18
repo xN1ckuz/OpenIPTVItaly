@@ -21,6 +21,7 @@ and this project follows **Semantic Versioning**.
 - LA7 Cinema
 - Real Time HD
 - Food Network
+- Giallo
 - Rai Gulp HD
 - Rai Yoyo HD
 - Boing Plus
