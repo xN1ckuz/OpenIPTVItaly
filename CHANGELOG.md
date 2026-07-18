@@ -11,15 +11,15 @@ and this project follows **Semantic Versioning**.
 
 ### Fixed
 
-- La 7
-- NOVE
+- Rai 1 HD
+- LA7 HD
+- NOVE HD
 - TeleNorba
 - TG Norba 24
-- Antenna Sud
-- TRM H24
 - Rai 5 HD
 - Rai Premium HD
-- La 7 Cinema
+- LA7 Cinema
+- Real Time HD
 - Rai Gulp HD
 - Rai Yoyo HD
 - Boing Plus
