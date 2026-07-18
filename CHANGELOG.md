@@ -28,6 +28,7 @@ and this project follows **Semantic Versioning**.
 - DMAX
 - Rai Storia HD
 - HGTV
+- Discovery Turbo
 - Rai Scuola HD
 - Rai Sport HD
 - IlSole24Ore TV
