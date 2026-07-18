@@ -80,7 +80,6 @@ The following channels do not currently have an IPTV-compatible stream available
 * **K2 (Channel 41)**
 * **Frisbee (Channel 44)**
 * **Boing Plus (Channel 45)**
-* **Discovery Turbo (Channel 59)**
 * **Donna TV (Channel 62)**
 * **IlSole24ORE TV (Channel 63)** have broken logo, name and EPG reference
 * **AlmaTV (Channel 65)**
