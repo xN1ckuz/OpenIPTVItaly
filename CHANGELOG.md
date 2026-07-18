@@ -7,6 +7,32 @@ and this project follows **Semantic Versioning**.
 
 ---
 
+## [1.3.0] - 2026-07-18
+
+### Fixed
+
+- Rai 1 HD
+- LA7 HD
+- NOVE HD
+- TeleNorba
+- TG Norba 24
+- Rai 5 HD
+- Rai Premium HD
+- LA7 Cinema
+- Real Time HD
+- Food Network
+- Giallo
+- Rai Gulp HD
+- Rai Yoyo HD
+- Rai News 24 HD
+- DMAX
+- Rai Storia HD
+- HGTV
+- Discovery Turbo
+- Rai Scuola HD
+- Rai Sport HD
+- IlSole24Ore TV
+
 ## [1.2.2] - 2026-03-03
 
 ### Fixed
