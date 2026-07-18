@@ -24,9 +24,13 @@ and this project follows **Semantic Versioning**.
 - Giallo
 - Rai Gulp HD
 - Rai Yoyo HD
-- Boing Plus
+- Rai News 24 HD
+- DMAX
 - Rai Storia HD
+- HGTV
+- Rai Scuola HD
 - Rai Sport HD
+- IlSole24Ore TV
 
 ## [1.2.2] - 2026-03-03
 
