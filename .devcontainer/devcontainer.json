@@ -1,8 +1,26 @@
 {
   "name": "IPTV Dev Container",
-  "image": "ubuntu:24.04",
+  "image": "ubuntu:26.10",
   "runArgs": ["--network=host"],
   "workspaceFolder": "/workspace",
   "mounts": ["source=${localWorkspaceFolder},target=/workspace,type=bind"],
-  "postCreateCommand": "bash /workspace/.devcontainer/setup.sh"
+  "postCreateCommand": "bash /workspace/.devcontainer/setup.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "github.vscode-github-actions"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/bin/python3",
+        "python.analysis.typeCheckingMode": "basic",
+        "files.eol": "\n",
+        "[python]": {
+          "editor.tabSize": 4
+        }
+      }
+    }
+  }
 }

@@ -2,26 +2,112 @@ name: IPTV Health Check
 
 on:
   schedule:
-    - cron: "45 18 * * *"   # Winter → 19:45 Italy
-    - cron: "45 17 * * *"   # Summer → 19:45 Italy
+    - cron: "45 18 * * *"   # 19:45 Italy in winter (CET, UTC+1)
+    - cron: "45 17 * * *"   # 19:45 Italy in summer (CEST, UTC+2)
   workflow_dispatch:
+    inputs:
+      only:
+        description: "Regex: test only channels whose name matches (empty = all)"
+        required: false
+        default: ""
+      skip:
+        description: "Regex: channels to skip"
+        required: false
+        default: "(Teledue)"
+      workers:
+        description: "Parallel stream tests"
+        required: false
+        default: "6"
+      skip_epg:
+        description: "Skip the EPG check"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: iptv-health
+  cancel-in-progress: false
 
 jobs:
   check-streams:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
+      # Both crons fire every day: keep only the one matching the current
+      # Italian offset (+0100 winter, +0200 summer). Manual runs always go on.
+      - name: Check Italian time offset
+        id: guard
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          offset=$(TZ=Europe/Rome date +%z)
+          run=false
+          if [[ "$EVENT_NAME" != "schedule" ]]; then
+            run=true
+          fi
+          if [[ "$SCHEDULE" == "45 18 * * *" && "$offset" == "+0100" ]]; then
+            run=true
+          fi
+          if [[ "$SCHEDULE" == "45 17 * * *" && "$offset" == "+0200" ]]; then
+            run=true
+          fi
+          echo "Event: $EVENT_NAME | schedule: $SCHEDULE | Rome offset: $offset | run: $run"
+          echo "run=$run" >> "$GITHUB_OUTPUT"
+
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/checkout@v4
 
       - name: Install ffmpeg (ffprobe)
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        if: steps.guard.outputs.run == 'true'
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
       - name: Run Dashboard
-        run: bash $GITHUB_WORKSPACE/.github/workflows/iptv-dashboard.sh
+        if: steps.guard.outputs.run == 'true'
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_ONLY: ${{ inputs.only }}
+          INPUT_SKIP: ${{ inputs.skip }}
+          INPUT_WORKERS: ${{ inputs.workers }}
+          INPUT_SKIP_EPG: ${{ inputs.skip_epg }}
+        run: |
+          args=(--json health_report.json)
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            args+=(--skip "$INPUT_SKIP")
+            if [[ -n "$INPUT_ONLY" ]]; then
+              args+=(--only "$INPUT_ONLY")
+            fi
+            if [[ -n "$INPUT_WORKERS" ]]; then
+              args+=(--workers "$INPUT_WORKERS")
+            fi
+            if [[ "$INPUT_SKIP_EPG" == "true" ]]; then
+              args+=(--skip-epg)
+            fi
+          fi
+          python3 "$GITHUB_WORKSPACE/.github/workflows/iptv_health.py" "${args[@]}"
+
+      - name: Publish report in the job summary
+        if: always() && steps.guard.outputs.run == 'true'
+        run: |
+          if [[ -f health_report.txt ]]; then
+            {
+              echo '```'
+              cat health_report.txt
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Upload Report Artifact
+        if: always() && steps.guard.outputs.run == 'true'
         uses: actions/upload-artifact@v6
         with:
           name: iptv-health-report
-          path: health_report.txt
+          path: |
+            health_report.txt
+            health_report.json
+          if-no-files-found: warn
+          retention-days: 30
