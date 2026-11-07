@@ -1,3 +1,7 @@
 ProblematicChannels.txt
 epg_ripper_IT1.txt
 NewChannels.txt
+
+# Local IPTV health check (not versioned)
+health_report.txt
+health_report.json

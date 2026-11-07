@@ -20,6 +20,17 @@ apt-get install -y --no-install-recommends \
 ln -fs /usr/share/zoneinfo/Europe/Rome /etc/localtime
 dpkg-reconfigure --frontend noninteractive tzdata
 
+echo ">>> Configuring Shell"
+if ! grep -q "iptv-health()" "$HOME/.bashrc"; then
+    cat >> "$HOME/.bashrc" <<'EOF'
+
+# Run the local IPTV health check from any directory (extra args are forwarded)
+iptv-health() {
+    python3 /workspace/scripts/iptv_health.py "$@"
+}
+EOF
+fi
+
 echo ">>> Cleaning"
 apt-get clean
 rm -rf /var/lib/apt/lists/*
