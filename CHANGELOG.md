@@ -7,6 +7,25 @@ and this project follows **Semantic Versioning**.
 
 ---
 
+## [1.4.1] - 2026-11-08
+
+### Fixed
+
+- TeleNorba
+- TG Norba 24
+- IlSole24ORE TV
+
+### Added
+
+- New TV channels with logos:
+  - La Nuova TV
+  - Horse TV
+  - AutoMoto
+  - MotoRetrò
+  - Rally.TV FAST+
+  - Trace Urban
+  - Trace Latina
+
 ## [1.4.0] - 2026-10-11
 
 ### Fixed
